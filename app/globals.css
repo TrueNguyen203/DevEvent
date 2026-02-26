@@ -128,7 +128,7 @@
     }
 
     ul {
-        @apply list-none list-inside;
+        @apply list-disc list-inside;
     }
 }
 
@@ -222,7 +222,7 @@
             }
 
             .booking {
-                @apply flex-1 w-full p-4 border-l border-gray-700;
+                @apply flex-1 w-full py-4 pr-4 border-l border-gray-700 border-none;
 
                 .signup-card {
                     @apply bg-dark-100 border-dark-200 card-shadow flex w-full flex-col gap-6 rounded-[10px] border px-5 py-6;
