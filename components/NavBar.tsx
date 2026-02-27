@@ -10,8 +10,7 @@ const NavBar = () => {
                 </Link>
                 <ul>
                     <Link href="/">Home</Link>
-                    <Link href="/">Event</Link>
-                    <Link href="/">Create Event</Link>
+                    <Link href="/createEvents">Create Event</Link>
                 </ul>
             </nav>
         </header>
