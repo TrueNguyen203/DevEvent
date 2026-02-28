@@ -1,7 +1,10 @@
 # DevEvents
 
 ## Description
-Event Platform built to manage and showcase events seamlessly. It features a dynamic home page displaying upcoming events, robust API routes for CRUD operations, Cloudinary-powered image uploads, detailed event pages with registration and similar event suggestions, and integrated analytics to track user engagement and optimize performance.
+Event Platform built to manage and showcase events seamlessly. It features a dynamic home page displaying upcoming events, robust API routes for CRUD operations, Cloudinary-powered image uploads, detailed event pages with registration and similar event suggestions, and integrated analytics to track user engagement and optimize performance. </br>
+</br>
+
+- Live Demo: [App](https://dev-events-plum-mu.vercel.app/)
 
 ![](DevEventdemo.png)
 
